@@ -112,4 +112,4 @@ Project Colab Notebook
 
 Syed Shahabaz A
 Bangalore | 6th Sem, CSE-DS, KNS Institute of Technology
-
+app link:-https://c478d064b6f6.ngrok-free.app/
